@@ -27,5 +27,4 @@
 *.mp4
 *.cpuprofile
 node_modules/
-build/webgazer.js
 build/webgazer.min.js
