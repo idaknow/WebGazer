@@ -41,7 +41,7 @@ The Index HTML File provides the additional features of an integrated action bar
 This is a good example that shows how WebGazer can be used.
 
 1. Clone and build the repository using the steps listed above (including downloading NodeJS and running `npm install`)
-2. Run the index.html file as a server by running the command `browser-sync start --server --files "*"` in the WebGazer directory
+2. Run the index.html file as a server by running the command `browser-sync start --server --files="**/*" --startPath="www/index.html"` in the WebGazer directory
 
 ## Browser Support
 
